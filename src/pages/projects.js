@@ -132,7 +132,7 @@ export default function MediaCard() {
                 </Typography>
               </CardContent>
               <CardActions>
-                <a className='card-links' href="" >Github</a>
+                <a className='card-links' href="https://github.com/Lennylettuce/t-rick-vial-mort-suit" >Github</a>
               </CardActions>
             </Card>
           </Grid>
@@ -143,7 +143,7 @@ export default function MediaCard() {
               <CardMedia
                 component="img"
                 height="140"
-                image="/images/"
+                image="/images/horiseon-pic.png"
                 alt=""
               />
               <CardContent>
@@ -155,7 +155,7 @@ export default function MediaCard() {
         </Typography>
               </CardContent>
               <CardActions>
-                <a className='card-links' href="" >Github</a>
+                <a className='card-links' href="https://github.com/Lennylettuce/Horiseon" >Github</a>
               </CardActions>
             </Card>
           </Grid>
