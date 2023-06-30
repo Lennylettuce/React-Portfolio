@@ -6,12 +6,12 @@ import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 import Typography from "@mui/material/Typography";
 import Footer from "../footer";
-// get resume import Pdf from "../../resources/resume.pdf";
+import Docx from "../../resources/resume.docx";
 
 
 
 export default function Resume() {
-  function handleClick(e) { e.preventDefault(); window.open(Pdf); }
+  function handleClick(e) { e.preventDefault(); window.open(Docx); }
 
   return (
     <>
