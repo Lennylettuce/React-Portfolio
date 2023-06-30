@@ -125,7 +125,7 @@ export default function MediaCard() {
                   Rickvia!
         </Typography>
                 <Typography variant="body2" color="text.secondary">
-                    This project 
+                    This was a group project made for people who like the show rick and morty, hence the title Rickvia!
                   <br></br>
                   <br></br>
                   <br></br>
@@ -151,7 +151,7 @@ export default function MediaCard() {
                  
         </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  
+                  This project used starter code given by instructors at WashU and is a basic page for a business.
         </Typography>
               </CardContent>
               <CardActions>
