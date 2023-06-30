@@ -1,8 +1,5 @@
 import React from "react";
-import Header from "./components/header";
-import Seciton from "./components/section";
 import Navbar from "./components/navbar";
-import Footer from "./components/footer";
 
 import "./app.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
