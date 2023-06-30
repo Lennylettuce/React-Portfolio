@@ -1,7 +1,7 @@
 import React from "react";
 import "../../app.css";
 import  { Container } from "@material-ui/core";
-import Footer from "../components/footer";
+import Footer from "../footer";
 
 export default function Aboutme () {
     return (
@@ -12,7 +12,7 @@ export default function Aboutme () {
           </p>
           <br></br>
           <p> Skills include: JavaScript ES6+, HTML5, CSS3, RESTful Design, React, Node.js, Express.js, jQuery, Handlebars, Bootstrap, MongoDB/Mongoose, MySQL/Sequelize, Heroku, Git.</p>
-          // <img className="head-shot" src="/images/me.jpg" alt="head-shot"></img>
+           <img className="head-shot" src="/images/me.jpg" alt="head-shot"></img>
         </Container>
   
         <Footer />
